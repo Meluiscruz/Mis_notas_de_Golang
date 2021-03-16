@@ -1,3 +1,3 @@
-# Lección 7: Variables, constantes y zero values
+# Lección 3: Instalar Go en Linux
 
-## Módulo 2: Variables, funciones y documentación
+## Módulo 1: Hola mundo en Go

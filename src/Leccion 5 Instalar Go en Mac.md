@@ -1,3 +1,3 @@
-# Lección 7: Variables, constantes y zero values
+# Lección 5: Instalar Go en Mac
 
-## Módulo 2: Variables, funciones y documentación
+## Módulo 1: Hola mundo en Go

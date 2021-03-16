@@ -1,3 +1,3 @@
-# Lección 7: Variables, constantes y zero values
+# Lección 2: ¿Qué es, por qué y quienes utilizan Go?
 
-## Módulo 2: Variables, funciones y documentación
+## Módulo 1: Hola mundo en Go

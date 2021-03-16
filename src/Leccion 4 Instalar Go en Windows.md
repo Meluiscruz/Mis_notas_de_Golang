@@ -1,3 +1,3 @@
-# Lección 7: Variables, constantes y zero values
+# Lección 4: Instalar Go en Windows
 
-## Módulo 2: Variables, funciones y documentación
+## Módulo 1: Hola mundo en Go
